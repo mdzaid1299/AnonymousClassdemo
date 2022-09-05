@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Name {
+public interface Name {
+    boolean isStartingWithA(String name);
+
+
 }
